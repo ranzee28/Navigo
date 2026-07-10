@@ -1,0 +1,6 @@
+{
+  "name": "Simulator Logistik Kampus",
+  "description": "Simulator rute pengiriman kurir interaktif yang mendemonstrasikan algoritme Dijkstra langkah demi langkah dengan visualisasi antrean prioritas, tabel jarak, dan manajemen kemacetan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
